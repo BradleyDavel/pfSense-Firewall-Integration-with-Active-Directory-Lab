@@ -175,15 +175,6 @@ nslookup google.com 8.8.8.8
 - DNS resolution path validated: **Client → DC01 → pfSense → Internet**.  
 - DNS bypass attempts blocked at the firewall.  
 
----
-
-## 📌 Next Steps
-
-Future expansions for this lab could include:  
-- Adding an **IDS/IPS** (Snort/Suricata) on pfSense.  
-- Implementing a **DMZ network** for web servers.  
-- Configuring **VPN access** via pfSense.  
-- Forwarding pfSense + AD logs to a **SIEM** for centralized monitoring.  
 
 ---
 
