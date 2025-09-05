@@ -191,4 +191,4 @@ Future expansions for this lab could include:
 ## 🙌 Credits
 Built by **Bradley Davel**  
 - 🔗 [GitHub Profile](https://github.com/BradleyDavel)  
-- 📧 bradleydavel123@gmail.com
+- 📧 bradley.davel@outlook.com
