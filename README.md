@@ -130,7 +130,6 @@ This ensures:
 
 ![nslookup dc01.corp.local test](images/11.png)  
 ![nslookup google.com test](images/12.png)  
-![nslookup bypass attempt blocked](images/13.png)  
 
 ### DC01 (Domain Controller)
 - Runs its own DNS service (`127.0.0.1`).  
